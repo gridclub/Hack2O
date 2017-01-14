@@ -11,7 +11,7 @@ The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) clu
 - [About the Data](#dataset)
 - [Keynote](#keynote)
 - [Schedule](#programme)
-- - [Signup](#signup)
+- [Signup](#signup)
 - [Acknowledgements](#ack)
 
 
