@@ -1,0 +1,9 @@
+# Site settings
+title: Hack2O
+tag_text: Hack2O 
+description: With <3 from GRiD
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
