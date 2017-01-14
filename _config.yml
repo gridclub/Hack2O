@@ -6,4 +6,6 @@ description: With <3 from GRiD
 # Build settings
 markdown: kramdown
 
+highlighter: rouge
+
 exclude: ["README.md"]
