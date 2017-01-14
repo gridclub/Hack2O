@@ -9,9 +9,9 @@ The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) clu
 
 - [Dates and Venue](#timeplace)
 - [About the Data](#dataset)
+- [Signup](#signup)
 - [Keynote](#keynote)
 - [Schedule](#programme)
-- [Signup](#signup)
 - [Acknowledgements](#ack)
 
 
@@ -23,7 +23,6 @@ Start: **Friday, Feb. 24; 5:30 PM**
 End: **Sunday, Feb. 26, 3:00 PM**
 
 
-
 ## <a name="dataset"></a> About the Data
 
 At this year’s annual hackathon, we will be exploring water contamination data sets. We will have additional data for waterborne disease outbreaks and other water-related health statistics. These resources will allow participants to explore the relationship, or a story, between communities’ water quality and health. 
@@ -32,14 +31,16 @@ We plan to host a manageable (but big enough to call itself "Big Data" :D) subse
 
 Check back soon for a complete description of data and objectives.
 
+
+## <a name="signup"></a> Signup Form
+{% include signup.html %}
+
+
 ## <a name="keynote"></a> Keynote Talk
 TBD
 
 ## <a name="keynote"></a> Programme Schedule
 TBD
-
-## <a name="signup"></a> Signup Form
-{% include signup.html %}
 
 ## <a name="ack"></a>Sponsors and Acknowledgements
 TBD
