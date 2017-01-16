@@ -12,6 +12,7 @@ The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) clu
 - [Signup](#signup)
 - [Keynote](#keynote)
 - [Schedule](#programme)
+- [Previous](#prevhack)
 - [Acknowledgements](#ack)
 
 
@@ -41,6 +42,10 @@ TBD
 
 ## <a name="keynote"></a> Programme Schedule
 TBD
+
+## <a name="prevhack"></a> Previous Hackathons
+- [HackPVTA](http://gridclub.io/HackPVTA/) - 2016
+- HackEbola - 2015
 
 ## <a name="ack"></a>Sponsors and Acknowledgements
 TBD
