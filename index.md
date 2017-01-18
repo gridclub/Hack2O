@@ -23,6 +23,7 @@ Start: **Friday, Feb. 24; 5:30 PM**
 
 End: **Sunday, Feb. 26, 3:00 PM**
 
+Location: **LGRT 1634**
 
 ## <a name="dataset"></a> About the Data
 
