@@ -4,7 +4,7 @@ layout: default
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
-![Hack2O](/assets/hack2ologo.png)
+![Hack2O](http://gridclub.io/Hack2O/assets/hack2ologo.png)
 
 The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our Annual Hackathon event! For 2017, we are focusing on water-related datasets.
 
