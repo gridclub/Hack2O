@@ -47,7 +47,7 @@ TBD
 
 ## <a name="prevhack"></a> Previous Hackathons
 - [HackPVTA](http://gridclub.io/HackPVTA/) - 2016
-- HackEbola - 2015
+- [HackEbola](http://gridclub.io/ebola-hackfest) - 2015
 
 ## <a name="ack"></a>Sponsors and Acknowledgements
 TBD
