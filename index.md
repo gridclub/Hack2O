@@ -40,9 +40,6 @@ Check back soon for a complete description of data and objectives.
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform) 
 
 
-{% include signup.html %}
-
-
 ## <a name="keynote"></a> Keynote Talk
 TBD
 
