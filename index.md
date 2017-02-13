@@ -6,7 +6,9 @@ layout: default
 
 ![Hack2O](http://gridclub.io/Hack2O/assets/hack2ologo.png)
 
-The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our Annual Hackathon event! For 2017, we are focusing on water-related datasets.
+The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our Annual Hackathon event! For 2017, we are focusing on water-related datasets.  Cool prizes from Microsoft Student Partners and more!
+
+NB: ALL teams are welcome, although we are focused primarily on graduate students from the Five Colleges. Unfortunately, at this time, we cannot provide accomodations or travel reimbursements for out-of-town teams. We apologise for the inconvenience.
 
 - [Dates and Venue](#timeplace)
 - [About the Data](#dataset)
