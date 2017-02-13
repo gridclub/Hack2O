@@ -30,8 +30,6 @@ Location: **LGRT 1634**
 
 At this year’s annual hackathon, we will be exploring water contamination datasets. We will have additional data for waterborne disease outbreaks and other water-related health statistics. These resources will allow participants to explore the relationship, or a story, between communities’ water quality and health. 
 
-We plan to host a manageable (but big enough to call itself "Big Data" :D) subset ourselves on AWS for quick and easy access by participants.
-
 Check back soon for a complete description of data and objectives.
 
 
