@@ -30,6 +30,7 @@ Location: **LGRT 1634**
 - [Details](#dataset)
 - [Schedule](#programme)
 - [FAQ](#faq)
+- [Contact](#contact)
 - [Previous](#prevhack)
 - [Acknowledgements](#ack)
 
@@ -66,6 +67,10 @@ TBD
 
 - *What if I am just starting out with data science or hackathons?*
     + Registration is open to ***any*** graduate student from the Five Colleges, regardless of experience with data science. Undergraduates may compete by invitation (please mail us if you have doubts).    
+
+
+## <a name="contact"></a> Contact
+- [GRiD](http://gridclub.io/contact/)
 
 
 ## <a name="prevhack"></a> Previous Hackathons
