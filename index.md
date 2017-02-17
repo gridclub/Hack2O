@@ -29,12 +29,15 @@ Location: **LGRT 1634**
 </form>
 
 
+* * *
+
 - [Details](#dataset)
 - [Schedule](#programme)
 - [FAQ](#faq)
 - [Previous](#prevhack)
 - [Acknowledgements](#ack)
 
+* * *
 
 ## <a name="dataset"></a> Details
 
