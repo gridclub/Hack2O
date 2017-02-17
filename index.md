@@ -24,6 +24,10 @@ Location: **LGRT 1634**
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button">Register here</a>
 
+<form action="http://google.com">
+    <button type="submit" value="Go to Google" />
+</form>
+
 
 - [Details](#dataset)
 - [Schedule](#programme)
