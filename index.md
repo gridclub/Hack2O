@@ -22,11 +22,7 @@ Location: **LGRT 1634**
 
 ## <a name="signup"></a> Signup
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button">Register here</a>
-
-<form action="http://google.com">
-    <button type="submit" value="Go to Google" />
-</form>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button"> <mark>***Register here*** </mark>  </a>
 
 
 * * *
