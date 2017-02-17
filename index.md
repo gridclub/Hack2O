@@ -30,7 +30,7 @@ NB: ALL teams are welcome, although we are focused primarily on graduate student
 - [FAQ](#faq)
 - [Previous](#prevhack)
 - [Acknowledgements](#ack)
-- 
+
 
 ## <a name="dataset"></a> About the Data
 
@@ -48,7 +48,7 @@ TBD
 - [HackPVTA](http://gridclub.io/HackPVTA/) - 2016
 - [HackEbola](http://gridclub.io/ebola-hackfest) - 2015
 
-## <a name="ack"></a>Sponsors and Acknowledgements
+## <a name="ack"></a>Acknowledgements
 ![sponsors](http://gridclub.io/Hack2O/assets/sponsors.png)
 
 
