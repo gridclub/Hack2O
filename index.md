@@ -62,7 +62,7 @@ TBD
 - *How large can teams be?*
     + We expect teams of maximum size 3. 
 
-- *There will be food right?* 
+- *There will be food, right?* 
     + Meals will be provided throughout the weekend, including dinner on Friday, breakfast/lunch/dinner on Saturday, and breakfast/lunch on Sunday.   
 
 - *What if I am just starting out with data science or hackathons?*
