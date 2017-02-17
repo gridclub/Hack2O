@@ -49,6 +49,10 @@ Participants will be competing in teams to:
 
 Check back soon for a complete description of data and objectives.
 
+[//]: # (Discussion board (just create a github issue): https://github.com/gridclub/Hack2O/issues)
+
+[//]: # (Data download: hack2o/assets/....)
+
 
 ## <a name="programme"></a> Schedule
 TBD
