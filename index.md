@@ -24,8 +24,6 @@ Location: **LGRT 1634**
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button"> <mark>Register here</mark>  </a>
 
-<button type="submit" formaction="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform">Click to register</button>
-
 
 * * *
 
@@ -51,6 +49,10 @@ Participants will be competing in teams to:
 Check back soon for a complete description of data and objectives.
 
 
+## <a name="keynote"></a> Schedule
+TBD
+
+
 ## <a name="faq"></a> FAQ
 
 - *Are teams outside UMass allowed?*
@@ -66,12 +68,10 @@ Check back soon for a complete description of data and objectives.
     Registration is open to ***any*** graduate student from the Five Colleges, regardless of experience with data science. Undergraduates may compete by invitation (please mail us if you have doubts).    
 
 
-## <a name="keynote"></a> Schedule
-TBD
-
 ## <a name="prevhack"></a> Previous Hackathons
 - [HackPVTA](http://gridclub.io/HackPVTA/) - 2016
 - [HackEbola](http://gridclub.io/ebola-hackfest) - 2015
+
 
 ## <a name="ack"></a>Acknowledgements
 ![sponsors](http://gridclub.io/Hack2O/assets/sponsors.png)
