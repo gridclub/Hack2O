@@ -13,7 +13,6 @@ NB: ALL teams are welcome, although we are focused primarily on graduate student
 - [Dates and Venue](#timeplace)
 - [About the Data](#dataset)
 - [Signup](#signup)
-- [Keynote](#keynote)
 - [Schedule](#programme)
 - [Previous](#prevhack)
 - [Acknowledgements](#ack)
@@ -40,9 +39,6 @@ Check back soon for a complete description of data and objectives.
 [Registration form](https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform) 
 
 
-## <a name="keynote"></a> Keynote Talk
-TBD
-
 ## <a name="keynote"></a> Programme Schedule
 TBD
 
@@ -51,6 +47,6 @@ TBD
 - [HackEbola](http://gridclub.io/ebola-hackfest) - 2015
 
 ## <a name="ack"></a>Sponsors and Acknowledgements
-TBD
+(http://gridclub.io/Hack2O/assets/hack2ologo.png)
 
 
