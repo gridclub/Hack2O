@@ -37,7 +37,7 @@ Location: **LGRT 1634**
 
 ## <a name="dataset"></a> Details
 
-At this year’s annual hackathon, we will be exploring water contamination data, especially as it relates to lead contamination in **Flint, MI**. . We will have additional data for waterborne disease outbreaks and other water-related health statistics.
+At this year’s annual hackathon, we will be exploring water contamination data, especially as it relates to lead contamination in **Flint, MI**. We will have additional data for waterborne disease outbreaks and other water-related health statistics.
 
 Participants will be competing in teams to:
 * design a project question
@@ -49,23 +49,23 @@ Participants will be competing in teams to:
 Check back soon for a complete description of data and objectives.
 
 
-## <a name="keynote"></a> Schedule
+## <a name="programme"></a> Schedule
 TBD
 
 
 ## <a name="faq"></a> FAQ
 
 - *Are teams outside UMass allowed?*
-    ALL teams are welcome, although we are focused primarily on graduate students from the Five Colleges. Unfortunately, at this time, we cannot provide accomodations or travel reimbursements for out-of-town teams. We apologise for the inconvenience.
+    + ALL teams are welcome, although we are focused primarily on graduate students from the Five Colleges. Unfortunately, at this time, we cannot provide accomodations or travel reimbursements for out-of-town teams. We apologise for the inconvenience.
 
 - *How large can teams be?*
-    We expect teams of maximum size 3. 
+    + We expect teams of maximum size 3. 
 
 - *There will be food right?* 
-    Meals will be provided throughout the weekend, including dinner on Friday, breakfast/lunch/dinner on Saturday, and breakfast/lunch on Sunday.   
+    + Meals will be provided throughout the weekend, including dinner on Friday, breakfast/lunch/dinner on Saturday, and breakfast/lunch on Sunday.   
 
 - *What if I am just starting out with data science or hackathons?*
-    Registration is open to ***any*** graduate student from the Five Colleges, regardless of experience with data science. Undergraduates may compete by invitation (please mail us if you have doubts).    
+    + Registration is open to ***any*** graduate student from the Five Colleges, regardless of experience with data science. Undergraduates may compete by invitation (please mail us if you have doubts).    
 
 
 ## <a name="prevhack"></a> Previous Hackathons
