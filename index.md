@@ -8,8 +8,10 @@ layout: default
 
 The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our annual ***Data Science Hackathon***! For 2017, we’ll be exploring water contamination datasets, especially as it relates to lead contamination in **Flint, MI**. 
 
-The competition is open to all graduate students. Prizes will be given to the winners, co-sponsored by [Microsoft Student Partner](https://www.facebook.com/groups/198842233863002/). 
+The competition is open to all graduate students. Prizes will be given to the winners, co-sponsored by [Microsoft Student Partners @ UMass](https://www.facebook.com/groups/198842233863002/). 
 
+
+## <a name="placetime"></a> When and where
 
 Start: **Friday, Feb. 24; 5:30 PM**
 
@@ -22,16 +24,31 @@ Location: **LGRT 1634**
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button">Register here</a>
 
-- [About the Data](#dataset)
+<form action="http://google.com">
+    <button type="submit" value="Go to Google" />
+</form>
+
+
+* * *
+
+- [Details](#dataset)
 - [Schedule](#programme)
 - [FAQ](#faq)
 - [Previous](#prevhack)
 - [Acknowledgements](#ack)
 
+* * *
 
-## <a name="dataset"></a> About the Data
+## <a name="dataset"></a> Details
 
-At this year’s annual hackathon, we will be exploring water contamination datasets. We will have additional data for waterborne disease outbreaks and other water-related health statistics. These resources will allow participants to explore the relationship, or a story, between communities’ water quality and health. 
+At this year’s annual hackathon, we will be exploring water contamination data, especially as it relates to lead contamination in **Flint, MI**. . We will have additional data for waterborne disease outbreaks and other water-related health statistics.
+
+Participants will be competing in teams to:
+* design a project question
+* import and clean data
+* build a model to answer their project question
+* use data visualization to explain their results
+* present to a panel of judges and peers.
 
 Check back soon for a complete description of data and objectives.
 
