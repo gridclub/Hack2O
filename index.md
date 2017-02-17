@@ -20,7 +20,7 @@ Location: **LGRT 1634**
 
 ## <a name="signup"></a> Signup
 
-<button name="button" onclick="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform">Register here</button>
+<button name="button" onclick="window.location.href=https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform">Register here</button>
 
 - [About the Data](#dataset)
 - [Schedule](#programme)
