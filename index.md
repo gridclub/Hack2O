@@ -38,11 +38,11 @@ Location: **LGRT 1634**
 
 ## <a name="dataset"></a> Details
 
-At this year’s annual hackathon, we will be exploring water contamination data, especially as it relates to lead contamination in **Flint, MI**. We will have additional data for waterborne disease outbreaks and other water-related health statistics.
+At this year’s annual hackathon, we will be exploring water contamination data, especially as it relates to [lead contamination in **Flint, MI**](https://en.wikipedia.org/wiki/Flint_water_crisis). We will have additional data for waterborne disease outbreaks and other water-related health statistics.
 
 Participants will be competing in teams to:
 * design a project question
-* import and clean data
+* import and analyse data
 * build a model to answer their project question
 * use data visualization to explain their results
 * present to a panel of judges and peers.
