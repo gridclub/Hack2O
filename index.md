@@ -25,15 +25,12 @@ Location: **LGRT 1634**
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button">Register here</a>
 
 
-* * *
-
 - [Details](#dataset)
 - [Schedule](#programme)
 - [FAQ](#faq)
 - [Previous](#prevhack)
 - [Acknowledgements](#ack)
 
-* * *
 
 ## <a name="dataset"></a> Details
 
