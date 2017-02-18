@@ -51,8 +51,8 @@ Check back soon for a complete description of data and objectives.
 
 [//]: # (Discussion board (just create a github issue): https://github.com/gridclub/Hack2O/issues)
 
-[//]: # (Data download: hack2o/assets/....)
-
+[//]: # (Data download: http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx)
+[Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx)
 
 ## <a name="programme"></a> Schedule
 TBD
