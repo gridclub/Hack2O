@@ -59,13 +59,14 @@ Check back soon for a complete description of data and objectives.
 
 
 ## <a name="programme"></a> Schedule
-###Friday, Feb. 24 
+
+**Friday, Feb. 24**
 * TBD
 
-###Saturday, Feb. 25
+**Saturday, Feb. 25**
 *  TBD
 
-###Sunday, Feb. 26, 
+**Sunday, Feb. 26** 
 * TBD
 
 
