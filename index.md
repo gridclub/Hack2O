@@ -49,7 +49,7 @@ Participants will be competing in teams to:
 
 Check back soon for a complete description of data and objectives.
 
-[//]: # (#### Dataset overview: [Slides](https://tinyurl.com/z48pvyw))
+[//]: # (#### Dataset info: [Slides](https://tinyurl.com/z48pvyw))
 
 [//]: # (#### Discussion board (just create an `Issue` for any of your questions and doubts): https://github.com/gridclub/Hack2O/issues)
 
@@ -89,7 +89,8 @@ Check back soon for a complete description of data and objectives.
 
 
 ## <a name="contact"></a> Contact
-- [GRiD](http://gridclub.io/contact/)
+- [GRiD email](http://gridclub.io/contact/)
+- [Facebook event](https://www.facebook.com/events/1374188235937652/)
 
 
 ## <a name="prevhack"></a> Previous Hackathons
