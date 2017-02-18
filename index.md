@@ -78,6 +78,9 @@ Check back soon for a complete description of data and objectives.
 - *How large can teams be?*
     + We expect teams of maximum size 3. 
 
+- *Are we expected to stick around all day?*
+    + The hackathon space is available for the entire weekend, along with organizers being present for technical support. It is totally fine to get hacking from home or wherever - just turn up in person for the final decisions on Sunday.
+
 - *There will be food, right?* 
     + Meals will be provided throughout the weekend, including dinner on Friday, breakfast/lunch/dinner on Saturday, and breakfast/lunch on Sunday.   
 
