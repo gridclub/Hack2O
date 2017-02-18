@@ -49,13 +49,24 @@ Participants will be competing in teams to:
 
 Check back soon for a complete description of data and objectives.
 
-[//]: # (Discussion board (just create a github issue): https://github.com/gridclub/Hack2O/issues)
+[//]: # (#### Dataset overview: [Slides](https://tinyurl.com/z48pvyw))
 
-[//]: # (Data download: http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx)
-[Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx)
+[//]: # (#### Discussion board (just create an `Issue` for any of your questions and doubts): https://github.com/gridclub/Hack2O/issues)
+
+[//]: # (Flint data download (.xlsx):)
+[//]: # ( * [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx) )
+[//]: # ( * [Copper, Iron, Lead](http://gridclub.io/Hack2O/assets/dataset/Copper_Iron_and_Lead_for_GriD.xlsx) )
+
 
 ## <a name="programme"></a> Schedule
-TBD
+###Friday, Feb. 24 
+* TBD
+
+###Saturday, Feb. 25
+*  TBD
+
+###Sunday, Feb. 26, 
+* TBD
 
 
 ## <a name="faq"></a> FAQ
