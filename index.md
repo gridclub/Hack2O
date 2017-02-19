@@ -14,7 +14,7 @@ layout: default
   <li><a href="#faq">FAQ &diams; </a></li>
   <li><a href="#contact">Contact &diams; </a></li>
   <li><a href="#prevhack">Previous &diams; </a></li>
-  <li><a href="#ack">Acknowledgements</a></li>
+  <li><a href="#ack">Sponsors</a></li>
 </ul>
 </div>
 <hr>
