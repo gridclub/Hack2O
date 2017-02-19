@@ -6,9 +6,9 @@ layout: default
 
 ![Hack2O](http://gridclub.io/Hack2O/assets/hack2ologo.png)
 
-The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our annual ***Data Science Hackathon***! For 2017, we’ll be exploring water contamination datasets, especially as it relates to lead contamination in **Flint, MI**. 
+The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our annual ***Data Science Hackathon***! For 2017, we’ll be exploring water contamination datasets, especially as it relates to lead contamination in **Flint, MI**. This year we’re happy to be co-organizing this event with Nabanita De of [Microsoft Student Partners](https://www.facebook.com/groups/198842233863002/).
 
-The competition is open to all graduate students. Prizes will be given to the winners, co-sponsored by [Microsoft Student Partners @ UMass](https://www.facebook.com/groups/198842233863002/). 
+The competition is open to all graduate students. Prizes will be given to the winners, co-sponsored by MSP. 
 
 
 ## <a name="placetime"></a> When and where
@@ -99,6 +99,7 @@ Check back soon for a complete description of data and objectives.
 
 
 ## <a name="ack"></a>Acknowledgements
-![sponsors](http://gridclub.io/Hack2O/assets/sponsors.png)
+
+![ACK](http://gridclub.io/Hack2O/assets/hack2O_sponsor.svg)
 
 
