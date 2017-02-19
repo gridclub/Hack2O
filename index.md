@@ -9,11 +9,11 @@ layout: default
 <hr>
 <div>
 <ul id="menu">
-  <li><a href="#dataset">Details</a></li>
-  <li><a href="#programme">Schedule</a></li>
-  <li><a href="#faq">FAQ</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#prevhack">Previous</a></li>
+  <li><a href="#dataset">Details &diams; </a></li>
+  <li><a href="#programme">Schedule &diams; </a></li>
+  <li><a href="#faq">FAQ &diams; </a></li>
+  <li><a href="#contact">Contact &diams; </a></li>
+  <li><a href="#prevhack">Previous &diams; </a></li>
   <li><a href="#ack">Acknowledgements</a></li>
 </ul>
 </div>
