@@ -22,7 +22,7 @@ layout: default
 
 
 
-The [Graduate Researchers in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our annual ***Data Science Hackathon***! For 2017, we’ll be exploring water contamination datasets, especially as it relates to lead contamination in **Flint, MI**. This year we’re happy to be co-organizing this event with Nabanita De of [Microsoft Student Partners](https://www.facebook.com/groups/198842233863002/).
+The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our annual ***Data Science Hackathon***! For 2017, we’ll be exploring water contamination datasets, especially as it relates to lead contamination in **Flint, MI**. This year we’re happy to be co-organizing this event with Nabanita De of [Microsoft Student Partners](https://www.facebook.com/groups/198842233863002/).
 
 The competition is open to all graduate students. Prizes will be given to the winners, co-sponsored by MSP. 
 
