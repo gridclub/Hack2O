@@ -6,6 +6,22 @@ layout: default
 
 ![Hack2O](http://gridclub.io/Hack2O/assets/hack2ologo.png)
 
+<hr>
+<div>
+<ul id="menu">
+  <li><a href="#dataset">Details</a></li>
+  <li><a href="#programme">Schedule</a></li>
+  <li><a href="#faq">FAQ</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#prevhack">Previous</a></li>
+  <li><a href="#ack">Acknowledgements</a></li>
+</ul>
+</div>
+<hr>
+
+
+
+
 The [Graduate Researchers interested in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our annual ***Data Science Hackathon***! For 2017, we’ll be exploring water contamination datasets, especially as it relates to lead contamination in **Flint, MI**. This year we’re happy to be co-organizing this event with Nabanita De of [Microsoft Student Partners](https://www.facebook.com/groups/198842233863002/).
 
 The competition is open to all graduate students. Prizes will be given to the winners, co-sponsored by MSP. 
@@ -25,16 +41,16 @@ Location: **LGRT 1634**
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button"> <mark>Register here</mark>  </a>
 
 
-* * *
+<!-- old menu -->
 
-- [Details](#dataset)
-- [Schedule](#programme)
-- [FAQ](#faq)
-- [Contact](#contact)
-- [Previous](#prevhack)
-- [Acknowledgements](#ack)
+<!-- - [Details](#dataset) -->
+<!-- - [Schedule](#programme) -->
+<!-- - [FAQ](#faq) -->
+<!-- - [Contact](#contact) -->
+<!-- - [Previous](#prevhack) -->
+<!-- - [Acknowledgements](#ack) -->
 
-* * *
+<!-- * * * -->
 
 ## <a name="dataset"></a> Details
 
