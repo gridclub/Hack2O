@@ -63,7 +63,7 @@ Participants will be competing in teams to:
 * use data visualization to explain their results
 * present to a panel of judges and peers.
 
-Check back soon for a complete description of data and objectives.
+The dataset, along with detailed instructions, will be released together with the hackathon kick-off.
 
 [//]: # (#### Dataset info: [Slides](https://tinyurl.com/z48pvyw))
 
