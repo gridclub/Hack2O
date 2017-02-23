@@ -93,6 +93,9 @@ The dataset, along with detailed instructions, will be released together with th
 
 - *How large can teams be?*
     + We expect teams of maximum size 3. 
+    
+- *What if I can't find enough team members?* 
+    + There will be a team formation session. It is a great opportunity to meet and work with new people and throw around interesting ideas.
 
 - *Are we expected to stick around all day?*
     + The hackathon space is available for the entire weekend, along with organizers being present for technical support. It is totally fine to get hacking from home or wherever - just turn up in person for the final decisions on Sunday.
