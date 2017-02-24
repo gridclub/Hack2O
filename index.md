@@ -94,7 +94,7 @@ The dataset, along with detailed instructions, will be released together with th
 | 8:00 AM    |  LGRT 1634 opens, hacking commences. |
 | 8:30 AM    | Breakfast and coffee. |
 | Noon       | Lunch. |
-| 6:00PM     | Dinner. |
+| 6:00 PM    | Dinner. |
 | Midnight   | Room closes. |
 
 **Sunday, Feb. 26** 
