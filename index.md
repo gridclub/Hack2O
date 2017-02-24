@@ -69,15 +69,17 @@ Participants will be competing in teams to:
 
 The dataset, along with detailed instructions, will be released together with the hackathon kick-off.
 
-[//]: # (### Dataset: )
 
-[//]: # (* [Data deepdive slides](https://tinyurl.com/z48pvyw))
+### Dataset: 
 
-[//]: # (* Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues))
+* [Data deepdive slides](https://tinyurl.com/z48pvyw)
 
-[//]: # (* Flint data download (.xlsx):)
-[//]: # ( + [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx) )
-[//]: # ( + [Copper, Iron, Lead](http://gridclub.io/Hack2O/assets/dataset/Copper_Iron_and_Lead_for_GriD.xlsx) )
+* Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues)
+
+* Flint data download (.xlsx):
+  + [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx)
+  + [Copper, Iron, Lead](http://gridclub.io/Hack2O/assets/dataset/Copper_Iron_and_Lead_for_GriD.xlsx)
+
 
 
 ## <a name="programme"></a> Schedule
