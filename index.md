@@ -65,9 +65,9 @@ Participants will be competing in teams to:
 
 The dataset, along with detailed instructions, will be released together with the hackathon kick-off.
 
-[//]: # (#### Dataset info: [Slides](https://tinyurl.com/z48pvyw))
+[//]: # (#### Dataset details: [Slides](https://tinyurl.com/z48pvyw))
 
-[//]: # (#### Discussion board (just create an `Issue` for any of your questions and doubts): https://github.com/gridclub/Hack2O/issues)
+[//]: # (#### Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues))
 
 [//]: # (Flint data download (.xlsx):)
 [//]: # ( * [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx) )
@@ -77,7 +77,14 @@ The dataset, along with detailed instructions, will be released together with th
 ## <a name="programme"></a> Schedule
 
 **Friday, Feb. 24**
-* TBD
+
+| 5:30     | Arrive to LGRT 1634, settle in, food.                                         |
+|----------|-------------------------------------------------------------------------------|
+| 5:45     | Mythreyi Krishnan from AmherstWorks, introduce prizes                         |
+| 6:00     | Nabanita De of Microsoft Student Partners, introduce prize                    |
+| 6:15     | Dataset Release! Presentation on Flint, MI by researcher Joe Goodwill         |
+| 6:30     | "Hackathons 101" presentation by Nabanita, followed by Team Formation Session |
+| Midnight | Room closes.                                                                  |
 
 **Saturday, Feb. 25**
 *  TBD
