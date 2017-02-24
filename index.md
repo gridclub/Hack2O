@@ -69,15 +69,17 @@ Participants will be competing in teams to:
 
 The dataset, along with detailed instructions, will be released together with the hackathon kick-off.
 
-[//]: # (### Dataset: )
 
-[//]: # (* [Data deepdive slides](https://tinyurl.com/z48pvyw))
+### Dataset:
 
-[//]: # (* Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues))
+* [Data "deepdive" slides](https://tinyurl.com/z48pvyw)
 
-[//]: # (* Flint data download (.xlsx):)
-[//]: # ( + [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx) )
-[//]: # ( + [Copper, Iron, Lead](http://gridclub.io/Hack2O/assets/dataset/Copper_Iron_and_Lead_for_GriD.xlsx) )
+* Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues)
+
+* Flint data download (.xlsx):
+  + [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx)
+  + [Copper, Iron, Lead](http://gridclub.io/Hack2O/assets/dataset/Copper_Iron_and_Lead_for_GriD.xlsx)
+
 
 
 ## <a name="programme"></a> Schedule
@@ -85,10 +87,10 @@ The dataset, along with detailed instructions, will be released together with th
 **Friday, Feb. 24**
 
 | 5:30 PM    | Arrive to LGRT 1634, settle in, grab some food. |
-| 5:45 PM    | Mythreyi Krishnan from AmherstWorks, introduce prizes. |
-| 6:00 PM    | Nabanita De of Microsoft Student Partners, introduce prize. |
-| 6:15 PM    | Dataset Release! Presentation on Flint, MI by researcher Joe Goodwill. |
-| 6:30 PM    | "Hackathons 101" presentation by Nabanita, followed by Team Formation Session. |
+| 5:45 PM    | **Mythreyi Krishnan** from **AmherstWorks**, introduce prizes. |
+| 6:00 PM    | **Nabanita De** of **Microsoft Student Partners**, introduce prize. |
+| 6:15 PM    | **Dataset Release**! Presentation on Flint, MI by researcher **Joe Goodwill**. |
+| 6:30 PM    | **"Hackathons 101"** presentation by **Nabanita**, followed by **Team Formation** session. |
 | Midnight   | Room closes. |
 
 **Saturday, Feb. 25**
