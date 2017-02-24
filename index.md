@@ -74,7 +74,10 @@ The dataset, along with detailed instructions, will be released together with th
 
 * [Data "deepdive" slides](https://tinyurl.com/z48pvyw)
 
-* Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues)
+* Discussion board: 
+  + [GitHub Issues](https://github.com/gridclub/Hack2O/issues)
+     + (just create an `Issue` for any of your questions and doubts)
+  + Instant updates and feedback: [*Slack* channel signup](https://grid-umass.slack.com/signup) 
 
 * Flint data download (.xlsx):
   + [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx)
