@@ -82,29 +82,30 @@ The dataset, along with detailed instructions, will be released together with th
 
 **Friday, Feb. 24**
 
-| 5:30 PM    | Arrive to LGRT 1634, settle in, food |
-| 5:45 PM    | Mythreyi Krishnan from AmherstWorks, introduce prizes |
-| 6:00 PM    | Nabanita De of Microsoft Student Partners, introduce prize |
-| 6:15 PM    | Dataset Release! Presentation on Flint, MI by researcher Joe Goodwill |
-| 6:30 PM    | "Hackathons 101" presentation by Nabanita, followed by Team Formation Session |
-| Midnight | Room closes |
+| 5:30 PM    | Arrive to LGRT 1634, settle in, grad some food. |
+| 5:45 PM    | Mythreyi Krishnan from AmherstWorks, introduce prizes. |
+| 6:00 PM    | Nabanita De of Microsoft Student Partners, introduce prize. |
+| 6:15 PM    | Dataset Release! Presentation on Flint, MI by researcher Joe Goodwill. |
+| 6:30 PM    | "Hackathons 101" presentation by Nabanita, followed by Team Formation Session. |
+| Midnight   | Room closes. |
 
 **Saturday, Feb. 25**
 
-| 8:00 AM  |  LGRT 1634 opens, hacking commences |
-| 8:30 AM  | Breakfast and coffee |
-| Noon     | Lunch |
-| 6:00PM   | Dinner |
-| Midnight | Room closes |
+| 8:00 AM    |  LGRT 1634 opens, hacking commences. |
+| 8:30 AM    | Breakfast and coffee. |
+| Noon       | Lunch. |
+| 6:00PM     | Dinner. |
+| Midnight   | Room closes. |
 
 **Sunday, Feb. 26** 
 
-| 8:00 AM  |  LGRT 1634 opens |
-| 8:30 AM  | Breakfast |
-| Noon     | Lunch |
-| 1:00PM   | Project presentations |
-| 2:30PM   | Judges decision-making |
-| 2:45-3:00 PM | Winners accounced, prizes, wrap-up. |
+| 8:00 AM    |  LGRT 1634 opens. |
+| 8:30 AM    | Breakfast. |
+| Noon       | Lunch. |
+| 1:00 PM    | Project presentations. |
+| 2:30 PM    | Judges decision-making. |
+| 2:45 PM    | Winners announced, prize. |
+| 3:00 PM    | Wrap-up. |
 
 
 ## <a name="faq"></a> FAQ
