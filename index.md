@@ -79,7 +79,6 @@ The dataset, along with detailed instructions, will be released together with th
 **Friday, Feb. 24**
 
 | 5:30     | Arrive to LGRT 1634, settle in, food.                                         |
-|----------|-------------------------------------------------------------------------------|
 | 5:45     | Mythreyi Krishnan from AmherstWorks, introduce prizes                         |
 | 6:00     | Nabanita De of Microsoft Student Partners, introduce prize                    |
 | 6:15     | Dataset Release! Presentation on Flint, MI by researcher Joe Goodwill         |
