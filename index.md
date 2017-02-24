@@ -69,9 +69,9 @@ Participants will be competing in teams to:
 
 The dataset, along with detailed instructions, will be released together with the hackathon kick-off.
 
-[//]: # (#### Dataset: )
+[//]: # (### Dataset: )
 
-[//]: # (* [Data deepdive Slides](https://tinyurl.com/z48pvyw))
+[//]: # (* [Data deepdive slides](https://tinyurl.com/z48pvyw))
 
 [//]: # (* Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues))
 
