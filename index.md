@@ -98,6 +98,7 @@ The dataset, along with detailed instructions, will be released together with th
 | Midnight | Room closes |
 
 **Sunday, Feb. 26** 
+
 | 8:00 AM  |  LGRT 1634 opens |
 | 8:30 AM  | Breakfast |
 | Noon     | Lunch |
