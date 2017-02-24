@@ -38,7 +38,9 @@ Location: **LGRT 1634**
 
 ## <a name="signup"></a> Signup
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button"> <mark>Register here</mark>  </a>
+Registration is now closed.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button"> <mark>~Register here~</mark>  </a>
 
 
 <!-- old menu -->
@@ -65,31 +67,43 @@ Participants will be competing in teams to:
 
 The dataset, along with detailed instructions, will be released together with the hackathon kick-off.
 
-[//]: # (#### Dataset details: [Slides](https://tinyurl.com/z48pvyw))
+[//]: # (#### Dataset: )
 
-[//]: # (#### Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues))
+[//]: # (* [Data deepdive Slides](https://tinyurl.com/z48pvyw))
 
-[//]: # (Flint data download (.xlsx):)
-[//]: # ( * [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx) )
-[//]: # ( * [Copper, Iron, Lead](http://gridclub.io/Hack2O/assets/dataset/Copper_Iron_and_Lead_for_GriD.xlsx) )
+[//]: # (* Discussion board (just create an `Issue` for any of your questions and doubts): [GitHub Issues](https://github.com/gridclub/Hack2O/issues))
+
+[//]: # (* Flint data download (.xlsx):)
+[//]: # ( + [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx) )
+[//]: # ( + [Copper, Iron, Lead](http://gridclub.io/Hack2O/assets/dataset/Copper_Iron_and_Lead_for_GriD.xlsx) )
 
 
 ## <a name="programme"></a> Schedule
 
 **Friday, Feb. 24**
 
-| 5:30     | Arrive to LGRT 1634, settle in, food.                                         |
-| 5:45     | Mythreyi Krishnan from AmherstWorks, introduce prizes                         |
-| 6:00     | Nabanita De of Microsoft Student Partners, introduce prize                    |
-| 6:15     | Dataset Release! Presentation on Flint, MI by researcher Joe Goodwill         |
-| 6:30     | "Hackathons 101" presentation by Nabanita, followed by Team Formation Session |
-| Midnight | Room closes.                                                                  |
+| 5:30 PM    | Arrive to LGRT 1634, settle in, food |
+| 5:45 PM    | Mythreyi Krishnan from AmherstWorks, introduce prizes |
+| 6:00 PM    | Nabanita De of Microsoft Student Partners, introduce prize |
+| 6:15 PM    | Dataset Release! Presentation on Flint, MI by researcher Joe Goodwill |
+| 6:30 PM    | "Hackathons 101" presentation by Nabanita, followed by Team Formation Session |
+| Midnight | Room closes |
 
 **Saturday, Feb. 25**
-*  TBD
+
+| 8:00 AM  |  LGRT 1634 opens, hacking commences |
+| 8:30 AM  | Breakfast and coffee |
+| Noon     | Lunch |
+| 6:00PM   | Dinner |
+| Midnight | Room closes |
 
 **Sunday, Feb. 26** 
-* TBD
+| 8:00 AM  |  LGRT 1634 opens |
+| 8:30 AM  | Breakfast |
+| Noon     | Lunch |
+| 1:00PM   | Project presentations |
+| 2:30PM   | Judges decision-making |
+| 2:45-3:00 PM | Winners accounced, prizes, wrap-up. |
 
 
 ## <a name="faq"></a> FAQ
