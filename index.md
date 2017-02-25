@@ -111,7 +111,7 @@ Participants will be competing in teams to:
 
 **Saturday, Feb. 25**
 
-| 8:00 AM    |  LGRT 1634 opens, hacking commences. |
+| 8:00 AM    | LGRT 1634 opens, hacking commences. |
 | 8:30 AM    | Breakfast and coffee. |
 | Noon       | Lunch. |
 | 6:00 PM    | Dinner. |
