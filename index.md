@@ -68,7 +68,9 @@ Participants will be competing in teams to:
 
 ### Data:
 
-* [Data "deepdive" slides](https://tinyurl.com/z48pvyw)
+* Data "deepdive" presentation:
+  + [slides](https://tinyurl.com/z48pvyw)
+  + [video](https://drive.google.com/file/d/0B_azRDFhehcjTFB2ZlRPRXIzT0E/view?usp=sharing)
 
 * Discussion board: 
   + [GitHub Issues](https://github.com/gridclub/Hack2O/issues)
