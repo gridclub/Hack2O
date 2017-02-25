@@ -20,8 +20,6 @@ layout: default
 <hr>
 
 
-
-
 The [Graduate Researchers in Data](http://www.gridclub.io) (GRiD) club at [UMass Amherst](http://www.umass.edu) is hosting our annual ***Data Science Hackathon***! For 2017, we’ll be exploring water contamination datasets, especially as it relates to lead contamination in **Flint, MI**. This year we’re happy to be co-organizing this event with Nabanita De of [Microsoft Student Partner](https://www.facebook.com/groups/198842233863002/).
 
 The competition is open to all graduate students. Prizes will be given to the winners, generously sponsored by [AmherstWorks](https://amherstworks.io/) and Microsoft Student Partner. 
@@ -67,10 +65,8 @@ Participants will be competing in teams to:
 * use data visualization to explain their results
 * present to a panel of judges and peers.
 
-The dataset, along with detailed instructions, will be released together with the hackathon kick-off.
 
-
-### Dataset:
+### Data:
 
 * [Data "deepdive" slides](https://tinyurl.com/z48pvyw)
 
@@ -82,6 +78,23 @@ The dataset, along with detailed instructions, will be released together with th
 * Flint data download (.xlsx):
   + [Cl and pH](http://gridclub.io/Hack2O/assets/dataset/Chlorine_and_pH_for_GRiD.xlsx)
   + [Copper, Iron, Lead](http://gridclub.io/Hack2O/assets/dataset/Copper_Iron_and_Lead_for_GriD.xlsx)
+
+
+### Prizes:
+
+* Overall winner, sponsored by [Amherst Works](https://amherstworks.io/).
+* Microsoft Student Partner sponsored prizes:
+  - Best use of [Azure Machine Learning](azure.com/ml)
+  - Best Up & Coming Hackers (first timers)
+
+
+### Judges
+
+***Dr. Krista Gile***, Associate Professor of Statistics, UMass Amherst.
+
+***Hassaan Khan***, PhD Candidate, Environmental Engineering and Water Resouces Engineering, UMass Amherst.
+
+***Roy Adams***, PhD Candidate, College of Information and Computer Sciences, UMass Amherst.
 
 
 
