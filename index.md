@@ -56,7 +56,7 @@ Registration is now closed.
 
 ## <a name="dataset"></a> Details
 
-At this year’s annual hackathon, we will be exploring water contamination data, especially as it relates to [lead contamination in **Flint, MI**](https://en.wikipedia.org/wiki/Flint_water_crisis). We will have additional data for waterborne disease outbreaks and other water-related health statistics.
+At this year’s annual hackathon, we will be exploring water contamination data, especially as it relates to [lead contamination in **Flint, MI**](https://en.wikipedia.org/wiki/Flint_water_crisis).
 
 Participants will be competing in teams to:
 * design a project question
