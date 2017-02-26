@@ -43,6 +43,15 @@ Registration is now closed.
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button"> <mark>~Register here~</mark>  </a>
 
 
+### Submission
+
+Please email a PDF of your slides to `grid-officers@cns.umass.edu`. The teams will be judged on their presentation.
+We estimate about 10 minutes per team per presentation.
+
+In the spirit of open source, we request that you make your code publicly available (GitHub, BitBucket, etc.), so that others may find it helpful. We will put up the all the links to code that we receive for Hack2O.
+
+
+
 <!-- old menu -->
 
 <!-- - [Details](#dataset) -->
@@ -124,7 +133,7 @@ Participants will be competing in teams to:
 | 8:00 AM    |  LGRT 1634 opens. |
 | 8:30 AM    | Breakfast. |
 | Noon       | Lunch. |
-| 1:00 PM    | Project presentations. |
+| 1:00 PM    | **Project presentations**. |
 | 2:30 PM    | Judges decision-making. |
 | 2:45 PM    | Winners announced, prize. |
 | 3:00 PM    | Wrap-up. |
