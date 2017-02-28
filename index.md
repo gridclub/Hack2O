@@ -9,6 +9,8 @@ layout: default
 <hr>
 <div>
 <ul id="menu">
+  <li><a href="#hall-of-fame">Hall of Fame</a></li>
+  <li><a href="#materials">Materials</a></li>
   <li><a href="#dataset">Details</a></li>
   <li><a href="#programme">Schedule</a></li>
   <li><a href="#faq">FAQ</a></li>
@@ -25,6 +27,21 @@ The [Graduate Researchers in Data](http://www.gridclub.io) (GRiD) club at [UMass
 The competition is open to all graduate students. Prizes will be given to the winners, generously sponsored by [AmherstWorks](https://amherstworks.io/) and Microsoft Student Partner. 
 
 
+## <a name="Hall of Fame"></a> Hall of Fame <i class="fa fa-graduation-cap fa-5x"></i>
+
+All of the projects that were presented at Hack2O were interesting enough to
+give our judges a hard time. The following teams stood
+out: 
+
+* Overall Winner — Andrew Wang (MIT Rejects)
+* Best Use of Azure ML — Tangxin Jin, Shujian Liu, Huan Chen (Pizza-Pita)
+* First Time Hackers —  Ajay Kumar (AK)
+* Best Woman Hacker — Azka Javaid (Lil ‘Herst), from Amherst College. 
+
+## <a name="materials"></a> Materials:
+  * Slides from all the presentations: <a href="https://github.com/gridclub/Hack2O-projects"><i class="fa fa-github fa-2x"></i></a>
+* Photos (more to be added): <a href="https://goo.gl/photos/MhKFTfmqFUdRdxGu5"><i class="fa fa-google fa-2x" aria-hidden="true"></i></a>
+
 ## <a name="placetime"></a> When and where
 
 Start: **Friday, Feb. 24; 5:30 PM**
@@ -36,11 +53,11 @@ Location: **LGRT 1634**
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2946.717843621902!2d-72.5289007852645!3d42.391156879184905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e6d273e4f0f865%3A0xa0d6586089148e05!2sUniversity+of+Massachusetts+Amherst!5e0!3m2!1sen!2sus!4v1487917018372" width="200" height="150" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-## <a name="signup"></a> Signup
+<!-- ## <a name="signup"></a> Signup -->
 
-Registration is now closed.
+<!-- Registration is now closed. -->
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button"> <mark>~Register here~</mark>  </a>
+<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfaGPM2AMbRzUOEENchr2A5HuQh3aUSdJDXX-qC4Ln3t0QCFQ/viewform" class="button"> <mark>~Register here~</mark>  </a> -->
 
 
 ### Submission
@@ -97,16 +114,20 @@ Participants will be competing in teams to:
 * Microsoft Student Partner sponsored prizes:
   - Best use of [Azure Machine Learning](azure.com/ml)
   - Best Up & Coming Hackers (first timers)
-
+  - Secret prize: Best woman hacker.
 
 ### Judges
 
 ***Dr. Krista Gile***, Associate Professor of Statistics, UMass Amherst.
 
+**Note:** Due to unforeseen circumstances, Dr. Krista Gile wasn't able to join us
+on Sunday. Professor Michael Lavine took her place as a judge. 
+
 ***Hassaan Khan***, PhD Candidate, Environmental Engineering and Water Resouces Engineering, UMass Amherst.
 
 ***Roy Adams***, PhD Candidate, College of Information and Computer Sciences, UMass Amherst.
 
+***Nabanita De***, MSc. Student, College of Information and Computer Sciences, UMass Amherst. Represented the Microsoft Student Partner Group.
 
 
 ## <a name="programme"></a> Schedule
@@ -172,6 +193,17 @@ Participants will be competing in teams to:
 
 ## <a name="ack"></a>Acknowledgements
 
+GRiD acknowledges the support of the following organizations, on-and-off campus, 
+without which Hack2O wouldn't have taken off. 
+
 ![ACK](http://gridclub.io/Hack2O/assets/hack2O_sponsor.svg)
+
+Additionally, we would like to thank:
+
+* Assistant Professor of Environmental Engineering [Joe Goodwill](https://www.francis.edu/Joseph-Goodwill/) of Saint Francis
+University, for providing his expertise with water data and providing 
+us with a clean dataset. 
+* [AmherstWorks](www.amherstworks.io), for supporting the hackathon,
+  giving prizes to the best team. 
 
 
