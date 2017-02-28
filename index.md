@@ -27,7 +27,7 @@ The [Graduate Researchers in Data](http://www.gridclub.io) (GRiD) club at [UMass
 The competition is open to all graduate students. Prizes will be given to the winners, generously sponsored by [AmherstWorks](https://amherstworks.io/) and Microsoft Student Partner. 
 
 
-## <a name="Hall of Fame"></a> Hall of Fame <i class="fa fa-graduation-cap fa-5x"></i>
+## <a name="hall-of-fame"></a> Hall of Fame <i class="fa fa-graduation-cap fa-5x"></i>
 
 All of the projects that were presented at Hack2O were interesting enough to
 give our judges a hard time. The following teams stood
